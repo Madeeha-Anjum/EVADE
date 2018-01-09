@@ -1,6 +1,5 @@
 /*
-
-
+ Madeeha Anjum & Pranavkumar Bodawala
 */
 #include <Arduino.h>
 #include <Adafruit_ILI9341.h>
